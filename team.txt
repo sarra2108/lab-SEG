@@ -1,5 +1,11 @@
+<<<<<<< Updated upstream
 
 My name is Karen.
 
 
 Sarra
+=======
+Sarra
+Karen
+Oceane
+>>>>>>> Stashed changes
